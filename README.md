@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub profile!  
 
-I'm passionate about **AI**, **OCR technologies**, and building tools that solve real-world problems. Here's a little about what I do:
+I'm passionate about **AI**, **Web Development**, and building tools that solve real-world problems. Here's a little about what I do:
 
 ---
 
@@ -8,6 +8,7 @@ I'm passionate about **AI**, **OCR technologies**, and building tools that solve
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
@@ -24,18 +25,17 @@ I'm passionate about **AI**, **OCR technologies**, and building tools that solve
 
 ---
 
-## 📈 My GitHub Stats  
+## 📈 My Top Languages  
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Hammad&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
 ## 🚀 Current Projects  
-- 🌟 **OCR Application** integrating Google Vision API, ElevenLabs TTS, and Poppler.  
+- 🌟 **RAG Powered Agents** integrating Google Vision API, ElevenLabs TTS.  
 - 🧠 **Maze Pathfinding Algorithms** using greedy heuristics to compute optimal solutions.  
 - 💻 Exploring **low-code development** tools for intuitive application building.
 
@@ -55,4 +55,4 @@ I'm passionate about **AI**, **OCR technologies**, and building tools that solve
 
 ---
 
-Thanks for visiting! Feel free to [connect with me](mailto:your.email@example.com) or check out my repositories. 😊
+Thanks for visiting! Feel free to [connect with me](mailto:hammadarif564@gmail.com) or check out my repositories. 😊
